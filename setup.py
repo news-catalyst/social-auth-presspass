@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="social-auth-presspass",
-    version="0.1.0",
+    version="0.2.0",
     author="PressPass Developers",
     author_email="tyler@newscatalyst.org",
     description="PressPass backend and pipelines for the popular Python Social Auth libraries",
